@@ -114,7 +114,7 @@ const posts = [
         + "#калиброванныевопросы #решениепроблем #бизнес #стратегия #лидерство", 
     likes: 981, 
     notes: [], 
-    media: [{ type: "image", url:  "post_5.png"}] }
+    media: [{ type: "image", url:  "post_5.jpeg"}] }
 ];
 
 const feedEl = document.getElementById("feed");
